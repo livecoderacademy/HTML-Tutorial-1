@@ -1,0 +1,25 @@
+
+“HTML কাকে বলে” ?
+HTML  এর পূর্ণরূপ হলো “hypertext markup language“
+
+Hypertext কি ?
+Hypertext হলো একটি সাধারণ টেক্সট (text)যার দ্বারা সম্পূর্ণ “web” বা “website” টিকে অনুসন্ধান (explore) করা যেতে পারে।
+
+Markup কি ?
+“একটি ওয়েবপেজে থাকা টেক্সট গুলোকে কিভাবে দেখানো হবে, সেই ক্ষেত্রে টেক্সট গুলোর মাঝে ব্যবহার করা বিভিন্ন symbols এবং characters গুলোর সঠিক ক্রম গুলোকেই বলা হয় “markup”
+
+Language কি ?
+HTML হলো একটি ভাষা (Language), যেটাকে “Tags” হিসেবে “web document” বা “webpages” তৈরি করার জন্যে ব্যবহার করা হয়।
+
+HTML ট্যাগ কি ? 
+HTML tag মানে হলো, একটি ওয়েবপেজে লুকিয়ে থাকা এমন কিছু keywords, যেগুলো আপনার ওয়েবপেজে থাকা কনটেন্ট গুলো কিভাবে ওয়েব ব্রাউজারে ডিসপ্লে (display) করা হবে, সেটা নির্ধারিত বা সেট (set) করে।
+
+HTML ট্যাগ কত প্রকার? 
+HTML tag গুলোকে দুধরণে ব্যবহার করা হয়।
+Opening HTML Tag
+Closing HTML Tag
+
+<i> Coding with LIVECODER ACADEMY </i>
+ওপরে লেখা বাক্য গুলো আমরা একটি সম্পূর্ণ HTML Tag এর ভেতরে লিখেছি যেখানে,
+<i> – হলো opening tag.
+</i> – হলো closing tag.
